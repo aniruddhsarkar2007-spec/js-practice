@@ -13,3 +13,9 @@ function cl4(){
 function cl5(){
     document.body.style.backgroundColor="black"
 }
+
+
+
+function cl(a){
+    document.body.style.backgroundColor=a
+}
