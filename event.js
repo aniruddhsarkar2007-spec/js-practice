@@ -17,7 +17,31 @@
 //     document.write("<h1> hii how r you</h1>")
 // }
 
-function demo()
+// function demo()
+// {
+//     document.getElementById('res').textContent="hii"
+// }
+
+
+function demoo()
 {
-    document.getElementById('res').textContent="hii"
+    document.getElementById('hi').textContent="lala"
+}
+
+
+function ne()
+{
+    alert("haa bhanjeee")
+}
+
+function k()
+{
+    let a=parseInt(prompt("Enter no:"))
+    let b=parseInt(prompt("Enter no:"))
+    alert(a+b)
+}
+
+function as()
+{
+    document.body.style.backgroundColor="blue"
 }
